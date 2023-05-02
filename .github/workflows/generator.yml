@@ -29,7 +29,7 @@ jobs:
     - name: Run gh
       run: |
         gh api -X GET users/${USER}/starred --paginate -q '.[] | {fullname: .full_name, url: .html_url, description: .description } | tostring' > "$RUNNER_TEMP/starred"
-        cat $env:RUNNER_TEMP/starred
+        cat "$RUNNER_TEMP/starred"
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     - name: Run generator
