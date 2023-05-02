@@ -26,14 +26,12 @@ jobs:
         python -m pip install --upgrade pip
         pip install flake8 pytest
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
-    - name: Run gh
+    - name: Run generator
       run: |
         gh api -X GET users/${USER}/starred --paginate -q '.[] | {fullname: .full_name, url: .html_url, description: .description } | tostring' > "$RUNNER_TEMP/starred"
-        cat "$RUNNER_TEMP/starred"
+        python3 generator.py "$RUNNER_TEMP/starred" TEMP.md
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-    - name: Run generator
-      run: python3 generator.py "$RUNNER_TEMP/starred" TEMP.md
     - name: Commit & Push changes
       uses: actions-js/push@master
       with:
