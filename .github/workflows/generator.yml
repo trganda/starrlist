@@ -29,6 +29,9 @@ jobs:
     - name: Run generator
       run: |
         gh api -X GET users/${USER}/starred --paginate -q '.[] | {fullname: .full_name, url: .html_url, description: .description } | tostring' > "$RUNNER_TEMP/starred"
+        echo "::debug::save temporary file $RUNNER_TEMP/starred"
+        TEMP_CONTENT=$(cat "$RUNNER_TEMP/starred")
+        echo "::debug:: $TEMP_CONTENT"
         python3 generator.py "$RUNNER_TEMP/starred" TEMP.md
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
