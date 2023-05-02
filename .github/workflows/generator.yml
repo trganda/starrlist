@@ -28,12 +28,12 @@ jobs:
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
     - name: Run gh
       run: |
-        gh api -X GET users/${USER}/starred --paginate -q '.[] | {fullname: .full_name, url: .html_url, description: .description } | tostring' > $env:RUNNER_TEMP/starred
+        gh api -X GET users/${USER}/starred --paginate -q '.[] | {fullname: .full_name, url: .html_url, description: .description } | tostring' > "$RUNNER_TEMP/starred"
         cat $env:RUNNER_TEMP/starred
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     - name: Run generator
-      run: python3 generator.py $env:RUNNER_TEMP/starred TEMP.md
+      run: python3 generator.py "$RUNNER_TEMP/starred" TEMP.md
     - name: Commit & Push changes
       uses: actions-js/push@master
       with:
