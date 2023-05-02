@@ -7,8 +7,7 @@ if __name__ == "__main__":
     s = io.StringIO()
     with open(sys.argv[1], "r") as f:
         for line in f:
-            ln = json.loads(line)
-            jline = json.loads(ln)
+            jline = json.loads(line)
             name = jline.get("fullname").strip()
             url = jline.get("url").strip()
             description = jline.get("description")
