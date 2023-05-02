@@ -28,7 +28,7 @@ jobs:
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
     - name: Run gh
       run: |
-        gh api -X GET users/trganda/starred --paginate -q '[.[] | {name: .full_name, url: .url}]' > /tmp/starred.json
+        gh api -X GET users/${USER}/starred --paginate -q '.[] | {fullname: .full_name, url: .html_url, description: .description } | tostring' > /tmp/starred.json
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     - name: Run generator
