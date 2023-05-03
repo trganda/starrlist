@@ -1,5 +1,7 @@
 ## List
 
+- [jackyzha0/quartz](https://github.com/jackyzha0/quartz)
+  - 🌱 host your own second brain and digital garden for free
 - [zzwlpx/JNDIExploit](https://github.com/zzwlpx/JNDIExploit)
   - A malicious LDAP server for JNDI injection attacks
 - [synercys/annotated_latex_equations](https://github.com/synercys/annotated_latex_equations)
