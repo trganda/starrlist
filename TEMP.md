@@ -1,5 +1,7 @@
 ## List
 
+- [jamiebrynes7/obsidian-todoist-plugin](https://github.com/jamiebrynes7/obsidian-todoist-plugin)
+  - Materialize Todoist tasks in Obsidian notes
 - [jackyzha0/quartz](https://github.com/jackyzha0/quartz)
   - 🌱 host your own second brain and digital garden for free
 - [zzwlpx/JNDIExploit](https://github.com/zzwlpx/JNDIExploit)
