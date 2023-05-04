@@ -1,5 +1,7 @@
 ## List
 
+- [RUCAIBox/LLMSurvey](https://github.com/RUCAIBox/LLMSurvey)
+  - A collection of papers and resources related to Large Language Models.
 - [jamiebrynes7/obsidian-todoist-plugin](https://github.com/jamiebrynes7/obsidian-todoist-plugin)
   - Materialize Todoist tasks in Obsidian notes
 - [jackyzha0/quartz](https://github.com/jackyzha0/quartz)
@@ -57,7 +59,7 @@
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all)
   - gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue
 - [binary-husky/gpt_academic](https://github.com/binary-husky/gpt_academic)
-  - 为GPT/GLM提供图形交互界面，特别优化论文阅读润色体验，模块化设计支持自定义快捷按钮&函数插件，支持代码块表格显示，Tex公式双显示，新增Python和C++项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持清华chatglm等本地模型
+  - 为GPT/GLM提供图形交互界面，特别优化论文阅读润色体验，模块化设计支持自定义快捷按钮&函数插件，支持代码块表格显示，Tex公式双显示，新增Python和C++项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持清华chatglm等本地模型。兼容llama,rwkv,盘古大模型等。
 - [lwch/natpass](https://github.com/lwch/natpass)
   - 🔥居家办公，远程开发神器
 - [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai)
@@ -552,7 +554,7 @@
   - A utility to give some insight into how you use your keyboard
 - [justinfrankel/licecap](https://github.com/justinfrankel/licecap)
   - LICEcap simple animated screen capture tool for Windows and OS X
-- [ppbibo/PentesterSpecialDict](https://github.com/ppbibo/PentesterSpecialDict)
+- [3vilc0de/PentesterSpecialDict](https://github.com/3vilc0de/PentesterSpecialDict)
   - 渗透测试人员专用精简化字典  Dictionary for penetration testers happy hacker
 - [dillonzq/LoveIt](https://github.com/dillonzq/LoveIt)
   - ❤️A clean, elegant but advanced blog theme for Hugo 一个简洁、优雅且高效的 Hugo 主题
