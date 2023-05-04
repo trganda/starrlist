@@ -9,11 +9,11 @@ on:
     - cron:  '0 5,21 * * *'
   workflow_dispatch:
 
-permissions: write-all
-
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
     # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
     - uses: actions/checkout@v3
