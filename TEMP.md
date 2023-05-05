@@ -1,5 +1,7 @@
 ## List
 
+- [ozntel/oz-clear-unused-images-obsidian](https://github.com/ozntel/oz-clear-unused-images-obsidian)
+  - Obsidian plugin to clear the images that are not used in note files anymore
 - [RUCAIBox/LLMSurvey](https://github.com/RUCAIBox/LLMSurvey)
   - A collection of papers and resources related to Large Language Models.
 - [jamiebrynes7/obsidian-todoist-plugin](https://github.com/jamiebrynes7/obsidian-todoist-plugin)
