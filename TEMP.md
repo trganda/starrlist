@@ -320,7 +320,7 @@
   - 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware.
 - [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook)
   - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).
-- [ZecOps/CVE-2020-0796-RCE-POC](https://github.com/ZecOps/CVE-2020-0796-RCE-POC)
+- [jamf/CVE-2020-0796-RCE-POC](https://github.com/jamf/CVE-2020-0796-RCE-POC)
   - CVE-2020-0796 Remote Code Execution POC
 - [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips)
   - An advanced guide to learn English which might benefit you a lot 🎉 .  可能是让你受益匪浅的英语进阶指南。
@@ -559,7 +559,7 @@
 - [justinfrankel/licecap](https://github.com/justinfrankel/licecap)
   - LICEcap simple animated screen capture tool for Windows and OS X
 - [3vilc0de/PentesterSpecialDict](https://github.com/3vilc0de/PentesterSpecialDict)
-  - 渗透测试人员专用精简化字典  Dictionary for penetration testers happy hacker
+  - Dictionary for penetration testers happy hacker
 - [dillonzq/LoveIt](https://github.com/dillonzq/LoveIt)
   - ❤️A clean, elegant but advanced blog theme for Hugo 一个简洁、优雅且高效的 Hugo 主题
 - [beefproject/beef](https://github.com/beefproject/beef)
