@@ -239,7 +239,7 @@
 - [TangBean/OnlineExecutor](https://github.com/TangBean/OnlineExecutor)
   - 基于 Spring Boot 的在线 Java IDE
 - [javaparser/javaparser](https://github.com/javaparser/javaparser)
-  - Java 1-15 Parser and Abstract Syntax Tree for Java, including preview features to Java 13
+  - Java 1-17 Parser and Abstract Syntax Tree for Java with advanced analysis functionalities.
 - [shining1984/PL-Compiler-Resource](https://github.com/shining1984/PL-Compiler-Resource)
   - 程序语言与编译技术相关资料（持续更新中）
 - [Marcono1234/codeql-jdk-docker](https://github.com/Marcono1234/codeql-jdk-docker)
@@ -558,7 +558,7 @@
   - A utility to give some insight into how you use your keyboard
 - [justinfrankel/licecap](https://github.com/justinfrankel/licecap)
   - LICEcap simple animated screen capture tool for Windows and OS X
-- [3vilc0de/PentesterSpecialDict](https://github.com/3vilc0de/PentesterSpecialDict)
+- [a3vilc0de/PentesterSpecialDict](https://github.com/a3vilc0de/PentesterSpecialDict)
   - Dictionary for penetration testers happy hacker
 - [dillonzq/LoveIt](https://github.com/dillonzq/LoveIt)
   - ❤️A clean, elegant but advanced blog theme for Hugo 一个简洁、优雅且高效的 Hugo 主题
