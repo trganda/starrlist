@@ -134,7 +134,7 @@
 - [hudangwei/codemillx](https://github.com/hudangwei/codemillx)
   - codemillx is a tool for CodeQL, extract the comments in the code and generate codeql module. 强化Go开源项目安全检测(内含开源项目漏洞挖掘方法)
 - [trailofbits/vast](https://github.com/trailofbits/vast)
-  - VAST is an experimental frontend designed for program analysis of C and C++. It provides a tower of IRs as MLIR dialects to choose the best fit representations for a program analysis or further program abstraction.
+  - VAST is an experimental compiler pipeline designed for program analysis of C and C++. It provides a tower of IRs as MLIR dialects to choose the best fit representations for a program analysis or further program abstraction.
 - [csujedihy/proximac](https://github.com/csujedihy/proximac)
   - An open-source alternative to proxifier
 - [ElegantLaTeX/ElegantPaper](https://github.com/ElegantLaTeX/ElegantPaper)
