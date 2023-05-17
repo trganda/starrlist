@@ -1,5 +1,9 @@
 ## List
 
+- [caido/caido](https://github.com/caido/caido)
+  - 🚀 Caido releases, wiki and roadmap
+- [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners)
+  - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep)
   - ⚡A fast and polyglot tool for code searching, linting, rewriting at large scale. Written in Rust
 - [Mr-xn/BLACKHAT_Asia2023](https://github.com/Mr-xn/BLACKHAT_Asia2023)
