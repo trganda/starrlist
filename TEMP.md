@@ -1,5 +1,7 @@
 ## List
 
+- [ObsidianPublisher/obsidian-github-publisher](https://github.com/ObsidianPublisher/obsidian-github-publisher)
+  - Github Publisher helps you to publish your notes on a preconfigured GitHub repository, for free, and more!
 - [caido/caido](https://github.com/caido/caido)
   - 🚀 Caido releases, wiki and roadmap
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners)
