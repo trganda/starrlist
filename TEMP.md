@@ -281,7 +281,7 @@
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts)
   - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [ed-asriyan/tgs-to-gif](https://github.com/ed-asriyan/tgs-to-gif)
-  - Converts animated Telegram stickers (*.tgs) to GIF / PNG / APNG / WEBP
+  - Converts Lottie Animations (.json / .lottie) and Telegram stickers (*.tgs) to GIF / PNG / APNG / WEBP
 - [hakivvi/CVE-2022-29464](https://github.com/hakivvi/CVE-2022-29464)
   - WSO2 RCE (CVE-2022-29464) exploit and writeup.
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout)
