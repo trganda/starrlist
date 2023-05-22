@@ -1,5 +1,7 @@
 ## List
 
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy)
+  - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt)
   - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
 - [krasun/damngood.tools](https://github.com/krasun/damngood.tools)
