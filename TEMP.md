@@ -77,7 +77,7 @@
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all)
   - gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue
 - [binary-husky/gpt_academic](https://github.com/binary-husky/gpt_academic)
-  - 为GPT/GLM提供图形交互界面，特别优化论文阅读润色体验，模块化设计支持自定义快捷按钮&函数插件，支持代码块表格显示，Tex公式双显示，新增Python和C++项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持清华chatglm等本地模型。兼容复旦MOSS, llama, rwkv, 盘古等。
+  - 为GPT/GLM提供图形交互界面，特别优化论文阅读润色体验，模块化设计支持自定义快捷按钮&函数插件，支持代码块表格显示，Tex公式双显示，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持清华chatglm等本地模型。兼容复旦MOSS, llama, rwkv, 盘古等。
 - [lwch/natpass](https://github.com/lwch/natpass)
   - 🔥居家办公，远程开发神器
 - [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai)
