@@ -1,5 +1,15 @@
 ## List
 
+- [fnmsd/MySQL_Fake_Server](https://github.com/fnmsd/MySQL_Fake_Server)
+  - MySQL Fake Server use to help MySQL Client File Reading and JDBC Client Java Deserialize
+- [su18/JDBC-Attack](https://github.com/su18/JDBC-Attack)
+  - JDBC Connection URL Attack
+- [ncipollo/release-action](https://github.com/ncipollo/release-action)
+  - An action which manages a github release
+- [mikepenz/release-changelog-builder-action](https://github.com/mikepenz/release-changelog-builder-action)
+  - A GitHub action that builds your release notes / changelog fast, easy and exactly the way you want.
+- [trganda/obsidian-attachment-management](https://github.com/trganda/obsidian-attachment-management)
+  - Attachment Management of Obsidian
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy)
   - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt)
