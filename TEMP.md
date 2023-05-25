@@ -1,5 +1,11 @@
 ## List
 
+- [paxoscn/mysql-protocol](https://github.com/paxoscn/mysql-protocol)
+  - A MySQL Protocol Implementation in Java
+- [mysql/mysql-connector-python](https://github.com/mysql/mysql-connector-python)
+  - MySQL Connector/Python is implementing the MySQL Client/Server protocol completely in Python. No MySQL libraries are needed, and no compilation is necessary to run this Python DB API v2.0 compliant driver. Documentation & Download: http://dev.mysql.com/doc/connector-python/en
+- [xelabs/go-mysqlstack](https://github.com/xelabs/go-mysqlstack)
+  - MySQL protocol library implementing in Go (golang)
 - [Gifts/Rogue-MySql-Server](https://github.com/Gifts/Rogue-MySql-Server)
   - Rogue MySql Server
 - [fnmsd/MySQL_Fake_Server](https://github.com/fnmsd/MySQL_Fake_Server)
