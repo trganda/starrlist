@@ -1,7 +1,7 @@
 ## List
 
 - [chaitin/xpoc](https://github.com/chaitin/xpoc)
-  - 为供应链漏洞扫描设计的快速应急响应工具 ⭐快速应急⭐ 漏洞扫描⭐端口扫描⭐xray2.0进行时
+  - 为供应链漏洞扫描设计的快速应急响应工具  [快速应急] [漏洞扫描] [端口扫描] [xray2.0进行时]   A fast emergency response tool designed for supply chain vulnerability scanning.
 - [paxoscn/mysql-protocol](https://github.com/paxoscn/mysql-protocol)
   - A MySQL Protocol Implementation in Java
 - [mysql/mysql-connector-python](https://github.com/mysql/mysql-connector-python)
@@ -877,7 +877,7 @@
 - [aircrack-ng/aircrack-ng](https://github.com/aircrack-ng/aircrack-ng)
   - WiFi security auditing tools suite
 - [kimocoder/wifite2](https://github.com/kimocoder/wifite2)
-  - Rewrite of the popular wireless network auditor, "wifite" - original source by @derv82
+  - Rewrite of the popular wireless network auditor, "wifite" - original by @derv82
 - [TheKingOfDuck/fuzzDicts](https://github.com/TheKingOfDuck/fuzzDicts)
   - Web Pentesting Fuzz 字典,一个就够了。
 - [aff3ct/aff3ct](https://github.com/aff3ct/aff3ct)
