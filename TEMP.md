@@ -393,7 +393,7 @@
 - [davisjam/vuln-regex-detector](https://github.com/davisjam/vuln-regex-detector)
   - Detect vulnerable regexes in your project. REDOS, catastrophic backtracking.
 - [HXSecurity/DongTai](https://github.com/HXSecurity/DongTai)
-  - DongTai is an interactive application security testing(IAST) product that supports the detection of OWASP WEB TOP 10 vulnerabilities, multi-request related vulnerabilities (including logic vulnerabilities, unauthorized access vulnerabilities, etc.), third-party component vulnerabilities, etc.
+  - Dongtai IAST is an open-source Interactive Application Security Testing (IAST) tool that enables real-time detection of common vulnerabilities in Java applications and third-party components through passive instrumentation. It is particularly suitable for use in the testing phase of the development pipeline.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
   - A list of Free Software network services and web applications which can be hosted on your own servers
 - [olist213/Information_Security_Books](https://github.com/olist213/Information_Security_Books)
