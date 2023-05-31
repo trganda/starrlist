@@ -1,13 +1,13 @@
 ## List
 
+- [mheath/netty-mysql-codec](https://github.com/mheath/netty-mysql-codec)
+  - A Netty Codec for the MySQL/MariaDB protocol
 - [HolographicWings/TOTK-Mods-collection](https://github.com/HolographicWings/TOTK-Mods-collection)
   - Mod repo for TOTK on Yuzu emulator.
 - [yuzu-emu/yuzu](https://github.com/yuzu-emu/yuzu)
   - Nintendo Switch Emulator
 - [chaitin/xpoc](https://github.com/chaitin/xpoc)
   - 为供应链漏洞扫描设计的快速应急响应工具  [快速应急] [漏洞扫描] [端口扫描] [xray2.0进行时]   A fast emergency response tool designed for supply chain vulnerability scanning.
-- [paxoscn/mysql-protocol](https://github.com/paxoscn/mysql-protocol)
-  - A MySQL Protocol Implementation in Java
 - [mysql/mysql-connector-python](https://github.com/mysql/mysql-connector-python)
   - MySQL Connector/Python is implementing the MySQL Client/Server protocol completely in Python. No MySQL libraries are needed, and no compilation is necessary to run this Python DB API v2.0 compliant driver. Documentation & Download: http://dev.mysql.com/doc/connector-python/en
 - [xelabs/go-mysqlstack](https://github.com/xelabs/go-mysqlstack)
