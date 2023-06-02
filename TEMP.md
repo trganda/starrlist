@@ -1,5 +1,11 @@
 ## List
 
+- [DeltaJordan/BotW-Save-Manager](https://github.com/DeltaJordan/BotW-Save-Manager)
+  - BOTW Save Manager for Switch and Wii U
+- [zserge/awfice](https://github.com/zserge/awfice)
+  - The world smallest office suite
+- [ClassmateLin/dm-ticket](https://github.com/ClassmateLin/dm-ticket)
+  - 大麦网自动购票, 支持docker一键部署。Damai automatically purchases tickets, running in docker container.
 - [blabla1337/skf-flask](https://github.com/blabla1337/skf-flask)
   - Security Knowledge Framework (SKF) Python Flask / Angular project
 - [apache/seatunnel](https://github.com/apache/seatunnel)
