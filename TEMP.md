@@ -47,7 +47,7 @@
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners)
   - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep)
-  - ⚡A fast and polyglot tool for code searching, linting, rewriting at large scale. Written in Rust
+  - ⚡A fast and polyglot tool for code structrual search, lint and rewriting at large scale. Written in Rust
 - [Mr-xn/BLACKHAT_Asia2023](https://github.com/Mr-xn/BLACKHAT_Asia2023)
   - Black Hat Asia 2023 PDF Public
 - [yaklang/yakit](https://github.com/yaklang/yakit)
