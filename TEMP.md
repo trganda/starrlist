@@ -1,5 +1,7 @@
 ## List
 
+- [buresdv/Cork](https://github.com/buresdv/Cork)
+  - A fast GUI for Homebrew written in SwiftUI
 - [huggingface/transformers](https://github.com/huggingface/transformers)
   - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [JoyChou93/java-sec-code](https://github.com/JoyChou93/java-sec-code)
