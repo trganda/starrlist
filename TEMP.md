@@ -1,5 +1,7 @@
 ## List
 
+- [google/deps.dev](https://github.com/google/deps.dev)
+  - Resources for the deps.dev API
 - [buresdv/Cork](https://github.com/buresdv/Cork)
   - A fast GUI for Homebrew written in SwiftUI
 - [huggingface/transformers](https://github.com/huggingface/transformers)
@@ -46,7 +48,7 @@
 - [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt)
   - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
 - [krasun/damngood.tools](https://github.com/krasun/damngood.tools)
-  - A set of damn good tools built for fun to play with Next.js
+  - A set of damn good tools built for fun and profit
 - [ObsidianPublisher/obsidian-github-publisher](https://github.com/ObsidianPublisher/obsidian-github-publisher)
   - Github Publisher helps you to publish your notes on a preconfigured GitHub repository, for free, and more!
 - [caido/caido](https://github.com/caido/caido)
