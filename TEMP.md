@@ -1,5 +1,7 @@
 ## List
 
+- [CVEProject/cvelist](https://github.com/CVEProject/cvelist)
+  - Pilot program for CVE submission through GitHub
 - [google/deps.dev](https://github.com/google/deps.dev)
   - Resources for the deps.dev API
 - [buresdv/Cork](https://github.com/buresdv/Cork)
