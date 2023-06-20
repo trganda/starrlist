@@ -3,7 +3,7 @@
 - [4ra1n/jar-analyzer-cli](https://github.com/4ra1n/jar-analyzer-cli)
   - A Jar analysis framework which build class and method database and supports various analyses, queries, custom scripts
 - [CVEProject/cvelist](https://github.com/CVEProject/cvelist)
-  - Pilot program for CVE submission through GitHub
+  - Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023
 - [google/deps.dev](https://github.com/google/deps.dev)
   - Resources for the deps.dev API
 - [buresdv/Cork](https://github.com/buresdv/Cork)
