@@ -1,5 +1,7 @@
 ## List
 
+- [4ra1n/jar-analyzer-cli](https://github.com/4ra1n/jar-analyzer-cli)
+  - A Jar analysis framework which build class and method database and supports various analyses, queries, custom scripts
 - [CVEProject/cvelist](https://github.com/CVEProject/cvelist)
   - Pilot program for CVE submission through GitHub
 - [google/deps.dev](https://github.com/google/deps.dev)
