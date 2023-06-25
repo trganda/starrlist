@@ -106,7 +106,7 @@
 - [kessejones/term.nvim](https://github.com/kessejones/term.nvim)
   - A neovim plugin to open terminal in floating window.
 - [chaitin/safeline](https://github.com/chaitin/safeline)
-  - 长亭科技自研，基于业界领先的语义引擎检测技术，打造的简洁、易用的免费 WAF
+  - 一款足够简单、足够好用、足够强的免费 WAF。基于业界领先的语义引擎检测技术，作为反向代理接入，保护你的网站不受黑客攻击。
 - [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed)
   - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
 - [guacsec/guac](https://github.com/guacsec/guac)
