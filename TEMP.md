@@ -1,5 +1,9 @@
 ## List
 
+- [arangodb/arangodb](https://github.com/arangodb/arangodb)
+  - 🥑 ArangoDB is a native multi-model database with flexible data models for documents, graphs, and key-values. Build high performance applications using a convenient SQL-like query language or JavaScript extensions.
+- [sonatype/nexus-public](https://github.com/sonatype/nexus-public)
+  - Sonatype Nexus Repository Manager; Open-source codebase mirror
 - [xl7dev/WebShell](https://github.com/xl7dev/WebShell)
   - Webshell && Backdoor Collection
 - [4ra1n/jar-analyzer-cli](https://github.com/4ra1n/jar-analyzer-cli)
