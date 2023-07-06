@@ -38,7 +38,7 @@
 - [HolographicWings/TOTK-Mods-collection](https://github.com/HolographicWings/TOTK-Mods-collection)
   - Mod repo for TOTK on Yuzu emulator.
 - [yuzu-emu/yuzu](https://github.com/yuzu-emu/yuzu)
-  - Nintendo Switch Emulator
+  - Nintendo Switch emulator
 - [chaitin/xpoc](https://github.com/chaitin/xpoc)
   - 为供应链漏洞扫描设计的快速应急响应工具  [快速应急] [漏洞扫描] [端口扫描] [xray2.0进行时]   A fast emergency response tool designed for supply chain vulnerability scanning.
 - [mysql/mysql-connector-python](https://github.com/mysql/mysql-connector-python)
