@@ -1,5 +1,7 @@
 ## List
 
+- [tom0li/collection-document](https://github.com/tom0li/collection-document)
+  - Collection of quality safety articles. Awesome articles.
 - [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi)
   - A tiling window manager for Windows
 - [netmikey/mvncloner](https://github.com/netmikey/mvncloner)
