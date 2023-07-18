@@ -19,7 +19,7 @@
 - [xl7dev/WebShell](https://github.com/xl7dev/WebShell)
   - Webshell && Backdoor Collection
 - [4ra1n/jar-analyzer-cli](https://github.com/4ra1n/jar-analyzer-cli)
-  - A Jar analysis framework which build class and method database and supports various analyses, queries, custom scripts
+  - 本项目可以把一个或多个Jar包构建成数据库，用户连接数据库后通过SQL语句任意搜索需要的内容，例如类和方法信息，方法调用关系等
 - [CVEProject/cvelist](https://github.com/CVEProject/cvelist)
   - Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023
 - [google/deps.dev](https://github.com/google/deps.dev)
