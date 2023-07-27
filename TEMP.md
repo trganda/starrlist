@@ -1,5 +1,7 @@
 ## List
 
+- [vastxie/Happy-ChatGPT](https://github.com/vastxie/Happy-ChatGPT)
+  - ChatGPT 国粹版，和 GPT 一起学习地道的中国话吧
 - [j2ekim/Pentest_Project](https://github.com/j2ekim/Pentest_Project)
   - 整理渗透测试、内网渗透、应急响应、密码字典、漏洞库、代码审计、渗透测试面试题相关项目
 - [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei)
