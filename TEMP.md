@@ -1,5 +1,9 @@
 ## List
 
+- [j2ekim/Pentest_Project](https://github.com/j2ekim/Pentest_Project)
+  - 整理渗透测试、内网渗透、应急响应、密码字典、漏洞库、代码审计、渗透测试面试题相关项目
+- [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei)
+  - Fast and customizable vulnerability scanner based on simple YAML based DSL.
 - [ossf/fuzz-introspector](https://github.com/ossf/fuzz-introspector)
   - Fuzz Introspector -- introspect, extend and optimise fuzzers
 - [kyo-w/router-router](https://github.com/kyo-w/router-router)
@@ -136,7 +140,7 @@
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid)
   - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [Crossbell-Box/xLog](https://github.com/Crossbell-Box/xLog)
-  - 🪽 The best on-chain and open-source blogging community for everyone.
+  - 🪽 An open-source creative community written on the blockchain.
 - [microsoft/JARVIS](https://github.com/microsoft/JARVIS)
   - JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf
 - [xworldcraft/jq-live](https://github.com/xworldcraft/jq-live)
