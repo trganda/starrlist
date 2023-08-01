@@ -1,5 +1,7 @@
 ## List
 
+- [umijs/dumi](https://github.com/umijs/dumi)
+  - 📖 Static Site Generator for component library development
 - [vastxie/Happy-ChatGPT](https://github.com/vastxie/Happy-ChatGPT)
   - ChatGPT 国粹版，和 GPT 一起学习地道的中国话吧
 - [j2ekim/Pentest_Project](https://github.com/j2ekim/Pentest_Project)
