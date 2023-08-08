@@ -1,5 +1,7 @@
 ## List
 
+- [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData)
+  - Decrypt passwords/cookies/history/bookmarks from the browser. 一款可全平台运行的浏览器数据导出解密工具。
 - [umijs/dumi](https://github.com/umijs/dumi)
   - 📖 Static Site Generator for component library development
 - [vastxie/Happy-ChatGPT](https://github.com/vastxie/Happy-ChatGPT)
