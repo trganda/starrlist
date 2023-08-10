@@ -1,5 +1,7 @@
 ## List
 
+- [joonspk-research/generative_agents](https://github.com/joonspk-research/generative_agents)
+  - Generative Agents: Interactive Simulacra of Human Behavior
 - [mgeeky/Penetration-Testing-Tools](https://github.com/mgeeky/Penetration-Testing-Tools)
   - A collection of more than 170+ tools, scripts, cheatsheets and other loots that I've developed over years for Red Teaming/Pentesting/IT Security audits purposes.
 - [tsl0922/ttyd](https://github.com/tsl0922/ttyd)
