@@ -1,5 +1,7 @@
 ## List
 
+- [hacklcx/HFish](https://github.com/hacklcx/HFish)
+  - 安全、可靠、简单、免费的企业级蜜罐
 - [joonspk-research/generative_agents](https://github.com/joonspk-research/generative_agents)
   - Generative Agents: Interactive Simulacra of Human Behavior
 - [mgeeky/Penetration-Testing-Tools](https://github.com/mgeeky/Penetration-Testing-Tools)
