@@ -1,5 +1,11 @@
 ## List
 
+- [soot-oss/SootUp](https://github.com/soot-oss/SootUp)
+  - A new version of Soot with a completely overhauled architecture
+- [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome)
+  - Network-wide ads & trackers blocking DNS server
+- [typecho/typecho](https://github.com/typecho/typecho)
+  - A PHP Blogging Platform. Simple and Powerful.
 - [mipmip/github-action-markdown-link-extract-to-json](https://github.com/mipmip/github-action-markdown-link-extract-to-json)
   - Extracts link from a section inside a markdown file and stores them into a json file
 - [j3ers3/Hello-Java-Sec](https://github.com/j3ers3/Hello-Java-Sec)
