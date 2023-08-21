@@ -1,5 +1,7 @@
 ## List
 
+- [wala/WALA](https://github.com/wala/WALA)
+  - T.J. Watson Libraries for Analysis, with frontends for Java, Android, and JavaScript, and may common static program analyses
 - [soot-oss/SootUp](https://github.com/soot-oss/SootUp)
   - A new version of Soot with a completely overhauled architecture
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome)
@@ -126,7 +128,7 @@
 - [jamiebrynes7/obsidian-todoist-plugin](https://github.com/jamiebrynes7/obsidian-todoist-plugin)
   - Materialize Todoist tasks in Obsidian notes
 - [jackyzha0/quartz](https://github.com/jackyzha0/quartz)
-  - 🌱 host your own second brain and digital garden for free
+  - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
 - [zzwlpx/JNDIExploit](https://github.com/zzwlpx/JNDIExploit)
   - A malicious LDAP server for JNDI injection attacks
 - [synercys/annotated_latex_equations](https://github.com/synercys/annotated_latex_equations)
@@ -180,7 +182,7 @@
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all)
   - gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue
 - [binary-husky/gpt_academic](https://github.com/binary-husky/gpt_academic)
-  - 为ChatGPT/GLM提供图形交互界面，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持清华chatglm2等本地模型。兼容复旦MOSS, llama, rwkv, newbing, claude, claude2等
+  - 为ChatGPT/GLM提供图形交互界面，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持清华chatglm2等本地模型。兼容复旦MOSS, llama2, rwkv, newbing, claude, claude2等
 - [lwch/natpass](https://github.com/lwch/natpass)
   - 🔥居家办公，远程开发神器
 - [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai)
