@@ -1,5 +1,7 @@
 ## List
 
+- [WebGoat/WebGoat](https://github.com/WebGoat/WebGoat)
+  - WebGoat is a deliberately insecure application
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
   - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [wala/WALA](https://github.com/wala/WALA)
