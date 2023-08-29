@@ -1,5 +1,11 @@
 ## List
 
+- [c0ny1/FastjsonExploit](https://github.com/c0ny1/FastjsonExploit)
+  - Fastjson vulnerability quickly exploits the framework（fastjson漏洞快速利用框架）
+- [safe6Sec/Fastjson](https://github.com/safe6Sec/Fastjson)
+  - Fastjson姿势技巧集合
+- [orangetw/My-Presentation-Slides](https://github.com/orangetw/My-Presentation-Slides)
+  - Collections of Orange Tsai's public presentation slides.
 - [WebGoat/WebGoat](https://github.com/WebGoat/WebGoat)
   - WebGoat is a deliberately insecure application
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
