@@ -1,5 +1,7 @@
 ## List
 
+- [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray)
+  - Deploy a Production Ready Kubernetes Cluster
 - [c0ny1/FastjsonExploit](https://github.com/c0ny1/FastjsonExploit)
   - Fastjson vulnerability quickly exploits the framework（fastjson漏洞快速利用框架）
 - [safe6Sec/Fastjson](https://github.com/safe6Sec/Fastjson)
