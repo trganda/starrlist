@@ -1,5 +1,6 @@
 ## List
 
+- [seal-io/walrus](https://github.com/seal-io/walrus)
 - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray)
   - Deploy a Production Ready Kubernetes Cluster
 - [c0ny1/FastjsonExploit](https://github.com/c0ny1/FastjsonExploit)
