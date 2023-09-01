@@ -189,7 +189,7 @@
 - [xworldcraft/jq-live](https://github.com/xworldcraft/jq-live)
   - Support using jq command in vscode and support live show result.
 - [warpdotdev/Warp](https://github.com/warpdotdev/Warp)
-  - Warp is a blazingly-fast modern Rust based GPU-accelerated terminal built to make you and your team more productive.
+  - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
 - [THUDM/GLM-130B](https://github.com/THUDM/GLM-130B)
   - GLM-130B: An Open Bilingual Pre-Trained Model (ICLR 2023)
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all)
