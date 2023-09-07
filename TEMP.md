@@ -205,7 +205,7 @@
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all)
   - gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue
 - [binary-husky/gpt_academic](https://github.com/binary-husky/gpt_academic)
-  - 为ChatGPT/GLM提供图形交互界面，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm2等本地模型。兼容文心一言, moss, llama2, rwkv, claude2, 通义千问, 书生, 讯飞星火等。
+  - 为ChatGPT/GLM提供实用化交互界面，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm2等本地模型。兼容文心一言, moss, llama2, rwkv, claude2, 通义千问, 书生, 讯飞星火等。
 - [lwch/natpass](https://github.com/lwch/natpass)
   - 🔥居家办公，远程开发神器
 - [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai)
@@ -408,7 +408,7 @@
   - CVE-2022-21449 Proof of Concept demonstrating its usage with a client running on a vulnerable Java version and a malicious TLS server
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts)
   - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
-- [ed-asriyan/tgs-to-gif](https://github.com/ed-asriyan/tgs-to-gif)
+- [ed-asriyan/lottie-converter](https://github.com/ed-asriyan/lottie-converter)
   - Converts Lottie Animations (.json / .lottie) and Telegram stickers (*.tgs) to GIF / PNG / APNG / WEBP
 - [hakivvi/CVE-2022-29464](https://github.com/hakivvi/CVE-2022-29464)
   - WSO2 RCE (CVE-2022-29464) exploit and writeup.
