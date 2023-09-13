@@ -1,5 +1,7 @@
 ## List
 
+- [aquasecurity/kube-bench](https://github.com/aquasecurity/kube-bench)
+  - Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark
 - [zfdang/Android-Touch-Helper](https://github.com/zfdang/Android-Touch-Helper)
   - 开屏跳过-安卓系统的开屏广告自动跳过助手
 - [ansible/ansible](https://github.com/ansible/ansible)
