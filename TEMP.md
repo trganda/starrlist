@@ -1,5 +1,7 @@
 ## List
 
+- [n0a/telegram-get-remote-ip](https://github.com/n0a/telegram-get-remote-ip)
+  - Get IP address on other side audio call in Telegram.
 - [aquasecurity/kube-bench](https://github.com/aquasecurity/kube-bench)
   - Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark
 - [zfdang/Android-Touch-Helper](https://github.com/zfdang/Android-Touch-Helper)
@@ -207,7 +209,7 @@
 - [THUDM/GLM-130B](https://github.com/THUDM/GLM-130B)
   - GLM-130B: An Open Bilingual Pre-Trained Model (ICLR 2023)
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all)
-  - gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue
+  - gpt4all: open-source LLM chatbots that you can run anywhere
 - [binary-husky/gpt_academic](https://github.com/binary-husky/gpt_academic)
   - 为ChatGPT/GLM提供实用化交互界面，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm2等本地模型。兼容文心一言, moss, llama2, rwkv, claude2, 通义千问, 书生, 讯飞星火等。
 - [lwch/natpass](https://github.com/lwch/natpass)
