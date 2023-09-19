@@ -229,7 +229,7 @@
 - [rmb122/rogue_mysql_server](https://github.com/rmb122/rogue_mysql_server)
   - A rouge mysql server supports reading files from most mysql libraries of multiple programming languages.
 - [reewardius/bbFuzzing.txt](https://github.com/reewardius/bbFuzzing.txt)
-- [OPENCYBER-FR/RustHound](https://github.com/OPENCYBER-FR/RustHound)
+- [NH-RED-TEAM/RustHound](https://github.com/NH-RED-TEAM/RustHound)
   - Active Directory data collector for BloodHound written in Rust. 🦀
 - [TalEliyahu/awesome-security-newsletters](https://github.com/TalEliyahu/awesome-security-newsletters)
   - Periodic cyber security newsletters that capture the latest news, summaries of conference talks, research, best practices, tools, events, vulnerabilities, and analysis of trending threats and attacks
