@@ -1,5 +1,7 @@
 ## List
 
+- [kantega/notsoserial](https://github.com/kantega/notsoserial)
+  - Java Agent which mitigates deserialisation attacks by making certain classes unserializable
 - [n0a/telegram-get-remote-ip](https://github.com/n0a/telegram-get-remote-ip)
   - Get IP address on other side audio call in Telegram.
 - [aquasecurity/kube-bench](https://github.com/aquasecurity/kube-bench)
