@@ -138,8 +138,6 @@
   - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt)
   - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
-- [krasun/damngood.tools](https://github.com/krasun/damngood.tools)
-  - A set of damn good tools built for fun and profit
 - [ObsidianPublisher/obsidian-github-publisher](https://github.com/ObsidianPublisher/obsidian-github-publisher)
   - Github Publisher helps you to publish your notes on a preconfigured GitHub repository, for free, and more!
 - [caido/caido](https://github.com/caido/caido)
