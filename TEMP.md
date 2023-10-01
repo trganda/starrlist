@@ -249,8 +249,8 @@
   - Fast web fuzzer written in Go
 - [trickster0/OffensiveRust](https://github.com/trickster0/OffensiveRust)
   - Rust Weaponization for Red Team Engagements.
-- [LasCC/Hack-Tools](https://github.com/LasCC/Hack-Tools)
-  - The all-in-one Red Team extension for Web Pentester 🛠
+- [LasCC/HackTools](https://github.com/LasCC/HackTools)
+  - The all-in-one browser extension for offensive security professionals 🛠
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust)
   - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
 - [CoolerVoid/codecat](https://github.com/CoolerVoid/codecat)
