@@ -1,5 +1,7 @@
 ## List
 
+- [chasays/newsletter-list](https://github.com/chasays/newsletter-list)
+  - 有趣，免费的 newsletter，欢迎推荐
 - [flannel-io/flannel](https://github.com/flannel-io/flannel)
   - flannel is a network fabric for containers, designed for Kubernetes
 - [projectcalico/calico](https://github.com/projectcalico/calico)
