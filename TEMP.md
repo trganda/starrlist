@@ -1,5 +1,7 @@
 ## List
 
+- [oracle/cluster-api-provider-oci](https://github.com/oracle/cluster-api-provider-oci)
+  - Kubernetes Cluster API Provider for Oracle Cloud Infrastructure
 - [chasays/newsletter-list](https://github.com/chasays/newsletter-list)
   - 有趣，免费的 newsletter，欢迎推荐
 - [flannel-io/flannel](https://github.com/flannel-io/flannel)
