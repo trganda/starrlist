@@ -1,5 +1,7 @@
 ## List
 
+- [oracle/oci-cloud-controller-manager](https://github.com/oracle/oci-cloud-controller-manager)
+  - Kubernetes Cloud Controller Manager implementation for Oracle Cloud Infrastucture
 - [TideSec/TideFinger_Go](https://github.com/TideSec/TideFinger_Go)
   - 一个Go版(更强大)的TideFinger指纹识别工具，可对web和主机指纹进行识别探测，整合梳理互联网指纹2.3W余条，在效率和指纹覆盖面方面进行了平衡和优化。
 - [oracle/cluster-api-provider-oci](https://github.com/oracle/cluster-api-provider-oci)
