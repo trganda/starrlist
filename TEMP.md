@@ -1,5 +1,7 @@
 ## List
 
+- [TideSec/TideFinger_Go](https://github.com/TideSec/TideFinger_Go)
+  - 一个Go版(更强大)的TideFinger指纹识别工具，可对web和主机指纹进行识别探测，整合梳理互联网指纹2.3W余条，在效率和指纹覆盖面方面进行了平衡和优化。
 - [oracle/cluster-api-provider-oci](https://github.com/oracle/cluster-api-provider-oci)
   - Kubernetes Cluster API Provider for Oracle Cloud Infrastructure
 - [chasays/newsletter-list](https://github.com/chasays/newsletter-list)
@@ -86,7 +88,7 @@
 - [tom0li/collection-document](https://github.com/tom0li/collection-document)
   - Collection of quality safety articles. Awesome articles.
 - [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi)
-  - A tiling window manager for Windows
+  - A tiling window manager for Windows 🇵🇸
 - [netmikey/mvncloner](https://github.com/netmikey/mvncloner)
   - Clone / mirror all or part of a remote maven repository into another one
 - [yaklang/yaklang](https://github.com/yaklang/yaklang)
@@ -1007,7 +1009,7 @@
 - [c0ny1/vulstudy](https://github.com/c0ny1/vulstudy)
   - 使用docker快速搭建各大漏洞靶场，目前可以一键搭建17个靶场。
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
-  - 🙃   A delightful community-driven (with 2,100+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+  - 🙃   A delightful community-driven (with 2,200+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [c0ny1/upload-labs](https://github.com/c0ny1/upload-labs)
   - 一个想帮你总结所有类型的上传漏洞的靶场
 - [jerryc127/hexo-theme-butterfly](https://github.com/jerryc127/hexo-theme-butterfly)
