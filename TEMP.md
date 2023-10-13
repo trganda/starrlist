@@ -1,5 +1,11 @@
 ## List
 
+- [pascal-lab/Tai-e](https://github.com/pascal-lab/Tai-e)
+  - An easy-to-learn/use static analysis framework for Java
+- [knownsec/KCon](https://github.com/knownsec/KCon)
+  - KCon is a famous Hacker Con powered by Knownsec Team.
+- [rancher/local-path-provisioner](https://github.com/rancher/local-path-provisioner)
+  - Dynamically provisioning persistent local storage with Kubernetes
 - [oracle/oci-cloud-controller-manager](https://github.com/oracle/oci-cloud-controller-manager)
   - Kubernetes Cloud Controller Manager implementation for Oracle Cloud Infrastucture
 - [TideSec/TideFinger_Go](https://github.com/TideSec/TideFinger_Go)
