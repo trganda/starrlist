@@ -1,5 +1,7 @@
 ## List
 
+- [bitnami/charts](https://github.com/bitnami/charts)
+  - Bitnami Helm Charts
 - [pascal-lab/Tai-e](https://github.com/pascal-lab/Tai-e)
   - An easy-to-learn/use static analysis framework for Java
 - [knownsec/KCon](https://github.com/knownsec/KCon)
