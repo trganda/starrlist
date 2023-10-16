@@ -1,5 +1,7 @@
 ## List
 
+- [coredns/coredns](https://github.com/coredns/coredns)
+  - CoreDNS is a DNS server that chains plugins
 - [bitnami/charts](https://github.com/bitnami/charts)
   - Bitnami Helm Charts
 - [pascal-lab/Tai-e](https://github.com/pascal-lab/Tai-e)
@@ -246,8 +248,6 @@
   - Server-Side Template Injection and Code Injection Detection and Exploitation Tool
 - [nkanaev/yarr](https://github.com/nkanaev/yarr)
   - yet another rss reader
-- [4ra1n/CVE-2023-21839](https://github.com/4ra1n/CVE-2023-21839)
-  - Weblogic CVE-2023-21839 / CVE-2023-21931 / CVE-2023-21979 一键检测
 - [rmb122/rogue_mysql_server](https://github.com/rmb122/rogue_mysql_server)
   - A rouge mysql server supports reading files from most mysql libraries of multiple programming languages.
 - [reewardius/bbFuzzing.txt](https://github.com/reewardius/bbFuzzing.txt)
