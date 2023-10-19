@@ -1,5 +1,7 @@
 ## List
 
+- [noidsirius/SootTutorial](https://github.com/noidsirius/SootTutorial)
+  - A step-by-step tutorial for Soot (a Java static analysis framework)
 - [PortSwigger/turbo-intruder](https://github.com/PortSwigger/turbo-intruder)
   - Turbo Intruder is a Burp Suite extension for sending large numbers of HTTP requests and analyzing the results.
 - [coredns/coredns](https://github.com/coredns/coredns)
@@ -193,7 +195,7 @@
 - [slsa-framework/slsa-github-generator](https://github.com/slsa-framework/slsa-github-generator)
   - Language-agnostic SLSA provenance generation for Github Actions
 - [in-toto/attestation](https://github.com/in-toto/attestation)
-  - in-toto Attestation Framework (ITE-6)
+  - in-toto Attestation Framework
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)
   - 🍰 Everything is RSSible
 - [google/gvisor](https://github.com/google/gvisor)
