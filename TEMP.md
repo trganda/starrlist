@@ -1,5 +1,7 @@
 ## List
 
+- [neo4j-examples/movies-java-spring-data-neo4j](https://github.com/neo4j-examples/movies-java-spring-data-neo4j)
+  - Neo4j Movies Example with Spring Data Neo4j
 - [noidsirius/SootTutorial](https://github.com/noidsirius/SootTutorial)
   - A step-by-step tutorial for Soot (a Java static analysis framework)
 - [PortSwigger/turbo-intruder](https://github.com/PortSwigger/turbo-intruder)
