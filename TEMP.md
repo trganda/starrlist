@@ -207,7 +207,7 @@
 - [gobysec/Weblogic](https://github.com/gobysec/Weblogic)
   - WebLogic vulnerability exploration from beginner to expert.
 - [arch3rPro/Pentest-Windows](https://github.com/arch3rPro/Pentest-Windows)
-  - Windows11 Penetration Suite Toolkit
+  - Windows11 Penetration Suite Toolkit 一个开箱即用的windows渗透测试环境
 - [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)
   - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins
 - [greshake/llm-security](https://github.com/greshake/llm-security)
