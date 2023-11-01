@@ -562,7 +562,7 @@
   - At LinkedIn, we are using this curriculum for onboarding our entry-level talents into the SRE role.
 - [google/sanitizers](https://github.com/google/sanitizers)
   - AddressSanitizer, ThreadSanitizer, MemorySanitizer
-- [returntocorp/semgrep](https://github.com/returntocorp/semgrep)
+- [semgrep/semgrep](https://github.com/semgrep/semgrep)
   - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [welk1n/JNDI-Injection-Exploit](https://github.com/welk1n/JNDI-Injection-Exploit)
   - JNDI注入测试工具（A tool which generates JNDI links can start several servers to exploit JNDI Injection vulnerability,like Jackson,Fastjson,etc）
