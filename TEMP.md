@@ -882,8 +882,6 @@
   - A beautiful and useful low-latency prompt for your shell, written in go
 - [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes)
   - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
-- [Dreamacro/clash](https://github.com/Dreamacro/clash)
-  - A rule-based tunnel in Go.
 - [timwhitez/crawlergo_x_XRAY](https://github.com/timwhitez/crawlergo_x_XRAY)
   - 360/0Kee-Team/crawlergo动态爬虫结合长亭XRAY扫描器的被动扫描功能
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
