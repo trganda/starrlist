@@ -169,7 +169,7 @@
 - [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt)
   - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
 - [ObsidianPublisher/obsidian-github-publisher](https://github.com/ObsidianPublisher/obsidian-github-publisher)
-  - Github Publisher helps you to publish your notes on a preconfigured GitHub repository, for free, and more!
+  - Github Publisher helps you to publish your notes on a preconfigured GitHub repository from your Obsidian Vault, for free, and more!
 - [caido/caido](https://github.com/caido/caido)
   - 🚀 Caido releases, wiki and roadmap
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners)
