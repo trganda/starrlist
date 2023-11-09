@@ -1,5 +1,7 @@
 ## List
 
+- [hakluke/hakrevdns](https://github.com/hakluke/hakrevdns)
+  - Small, fast tool for performing reverse DNS lookups en masse.
 - [hahwul/DevSecOps](https://github.com/hahwul/DevSecOps)
   - ♾️ Collection and Roadmap for everyone who wants DevSecOps. Hope your DevOps are more safe 😎
 - [neo4j-examples/movies-java-spring-data-neo4j](https://github.com/neo4j-examples/movies-java-spring-data-neo4j)
