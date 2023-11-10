@@ -1,5 +1,9 @@
 ## List
 
+- [jbranchaud/til](https://github.com/jbranchaud/til)
+  - :memo: Today I Learned
+- [microsoft/inshellisense](https://github.com/microsoft/inshellisense)
+  - IDE style command line auto complete
 - [hakluke/hakrevdns](https://github.com/hakluke/hakrevdns)
   - Small, fast tool for performing reverse DNS lookups en masse.
 - [hahwul/DevSecOps](https://github.com/hahwul/DevSecOps)
