@@ -858,7 +858,7 @@
 - [ambionics/phpggc](https://github.com/ambionics/phpggc)
   - PHPGGC is a library of PHP unserialize() payloads along with a tool to generate them, from command line or programmatically.
 - [Ivan1ee/NET-Deserialize](https://github.com/Ivan1ee/NET-Deserialize)
-  - 总结了十篇.Net反序列化文章，持续更新
+  - 总结了20+.Net反序列化文章，持续更新
 - [amix/vimrc](https://github.com/amix/vimrc)
   - The ultimate Vim configuration (vimrc)
 - [mikesiko/PracticalMalwareAnalysis-Labs](https://github.com/mikesiko/PracticalMalwareAnalysis-Labs)
