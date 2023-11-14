@@ -1,5 +1,9 @@
 ## List
 
+- [web-platform-tests/wpt](https://github.com/web-platform-tests/wpt)
+  - Test suites for Web platform specs — including WHATWG, W3C, and others
+- [bagder/docs](https://github.com/bagder/docs)
+  - Internet protocols and tools related documentation
 - [jbranchaud/til](https://github.com/jbranchaud/til)
   - :memo: Today I Learned
 - [microsoft/inshellisense](https://github.com/microsoft/inshellisense)
