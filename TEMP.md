@@ -1,5 +1,10 @@
 ## List
 
+- [auth0/docs](https://github.com/auth0/docs)
+  - Auth0 documentation
+- [silentsignal/rsa_sign2n](https://github.com/silentsignal/rsa_sign2n)
+  - Deriving RSA public keys from message-signature pairs
+- [wallarm/jwt-secrets](https://github.com/wallarm/jwt-secrets)
 - [Cryin/JavaID](https://github.com/Cryin/JavaID)
   - java source code static code analysis and danger function identify prog
 - [danuk/k8s-webdav](https://github.com/danuk/k8s-webdav)
@@ -158,7 +163,7 @@
   - SeaTunnel is a next-generation super high-performance, distributed, massive data integration tool.
 - [mheath/netty-mysql-codec](https://github.com/mheath/netty-mysql-codec)
   - A Netty Codec for the MySQL/MariaDB protocol
-- [HolographicWings/TOTK-Mods-collection](https://github.com/HolographicWings/TOTK-Mods-collection)
+- [hoverbike1/TOTK-Mods-collection](https://github.com/hoverbike1/TOTK-Mods-collection)
   - Mod repo for TOTK on Yuzu emulator.
 - [yuzu-emu/yuzu](https://github.com/yuzu-emu/yuzu)
   - Nintendo Switch emulator
