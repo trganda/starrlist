@@ -1,5 +1,9 @@
 ## List
 
+- [ticarpi/jwt_tool](https://github.com/ticarpi/jwt_tool)
+  - :snake: A toolkit for testing, tweaking and cracking JSON Web Tokens
+- [rwv/docker-zerotier-moon](https://github.com/rwv/docker-zerotier-moon)
+  - 🐳 A docker image to create ZeroTier moon in one step.
 - [wangyu-/udp2raw](https://github.com/wangyu-/udp2raw)
   - A Tunnel which Turns UDP Traffic into Encrypted UDP/FakeTCP/ICMP Traffic by using Raw Socket,helps you Bypass UDP FireWalls(or Unstable UDP Environment)
 - [kmahyyg/ztncui-aio](https://github.com/kmahyyg/ztncui-aio)
