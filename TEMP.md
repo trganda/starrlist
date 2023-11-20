@@ -1,5 +1,7 @@
 ## List
 
+- [ZhuriLab/Yi](https://github.com/ZhuriLab/Yi)
+  - 项目监控工具 以及 Codeql 自动运行
 - [ticarpi/jwt_tool](https://github.com/ticarpi/jwt_tool)
   - :snake: A toolkit for testing, tweaking and cracking JSON Web Tokens
 - [rwv/docker-zerotier-moon](https://github.com/rwv/docker-zerotier-moon)
