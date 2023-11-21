@@ -1,5 +1,11 @@
 ## List
 
+- [caddyserver/caddy](https://github.com/caddyserver/caddy)
+  - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
+- [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler)
+  - Crawl a site to generate knowledge files to create your own custom GPT from a URL
+- [Jonnyan404/zerotier-planet](https://github.com/Jonnyan404/zerotier-planet)
+  - 一分钟自建zerotier-planet
 - [ZhuriLab/Yi](https://github.com/ZhuriLab/Yi)
   - 项目监控工具 以及 Codeql 自动运行
 - [ticarpi/jwt_tool](https://github.com/ticarpi/jwt_tool)
