@@ -1,5 +1,13 @@
 ## List
 
+- [Osmose/firefox-cert-override](https://github.com/Osmose/firefox-cert-override)
+  - Python library and CLI for reading and writing cert_override.txt files.
+- [zerotier/zeronsd](https://github.com/zerotier/zeronsd)
+  - A DNS server for ZeroTier users
+- [jassics/security-study-plan](https://github.com/jassics/security-study-plan)
+  - Complete Practical Study Plan to become a successful cybersecurity engineer based on roles like Pentest, AppSec, Cloud Security, DevSecOps and so on...
+- [sottlmarek/DevSecOps](https://github.com/sottlmarek/DevSecOps)
+  - Ultimate DevSecOps library
 - [caddyserver/caddy](https://github.com/caddyserver/caddy)
   - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler)
