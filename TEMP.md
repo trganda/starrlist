@@ -1,5 +1,23 @@
 ## List
 
+- [cytoscape/cytoscape.js](https://github.com/cytoscape/cytoscape.js)
+  - Graph theory (network) library for visualisation and analysis
+- [ShiftLeftSecurity/overflowdb](https://github.com/ShiftLeftSecurity/overflowdb)
+  - ShiftLeft OverflowDB
+- [plume-oss/plume](https://github.com/plume-oss/plume)
+  - Plume is a code property graph analysis library with options to extract the CPG from Java bytecode and store the result in various graph databases.
+- [ShiftLeftSecurity/codepropertygraph](https://github.com/ShiftLeftSecurity/codepropertygraph)
+  - Code Property Graph: specification, query language, and utilities
+- [fmbenhassine/jql](https://github.com/fmbenhassine/jql)
+  - Java code analysis and linting with SQL
+- [INRIA/spoon](https://github.com/INRIA/spoon)
+  - Spoon is a metaprogramming library to analyze and transform Java source code. :spoon: is made with :heart:, :beers: and :sparkles:. It parses source files to build a well-designed AST with powerful analysis and transformation API.
+- [find-sec-bugs/find-sec-bugs](https://github.com/find-sec-bugs/find-sec-bugs)
+  - The SpotBugs plugin for security audits of Java web applications and Android applications. (Also work with Kotlin, Groovy and Scala projects)
+- [spotbugs/spotbugs](https://github.com/spotbugs/spotbugs)
+  - SpotBugs is FindBugs' successor. A tool for static analysis to look for bugs in Java code.
+- [joernio/joern](https://github.com/joernio/joern)
+  - Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs. Discord https://discord.gg/vv4MH284Hc
 - [GetStream/Winds](https://github.com/GetStream/Winds)
   - A Beautiful Open Source RSS & Podcast App Powered by Getstream.io
 - [yang991178/fluent-reader](https://github.com/yang991178/fluent-reader)
