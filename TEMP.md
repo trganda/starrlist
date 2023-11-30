@@ -1,5 +1,7 @@
 ## List
 
+- [github/codeql-action](https://github.com/github/codeql-action)
+  - Actions for running CodeQL analysis
 - [apache/tinkerpop](https://github.com/apache/tinkerpop)
   - Apache TinkerPop - a graph computing framework
 - [ShiftLeftSecurity/overflowdb-codegen](https://github.com/ShiftLeftSecurity/overflowdb-codegen)
