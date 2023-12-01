@@ -1,5 +1,7 @@
 ## List
 
+- [0xdea/semgrep-rules](https://github.com/0xdea/semgrep-rules)
+  - A collection of my Semgrep rules to facilitate vulnerability research.
 - [github/codeql-action](https://github.com/github/codeql-action)
   - Actions for running CodeQL analysis
 - [apache/tinkerpop](https://github.com/apache/tinkerpop)
