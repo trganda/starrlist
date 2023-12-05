@@ -1,5 +1,8 @@
 ## List
 
+- [ossf/criticality_score](https://github.com/ossf/criticality_score)
+  - Gives criticality score for an open source project
+- [github/codeql-dubbo-workshop](https://github.com/github/codeql-dubbo-workshop)
 - [koekeishiya/yabai](https://github.com/koekeishiya/yabai)
   - A tiling window manager for macOS based on binary space partitioning
 - [0xdea/semgrep-rules](https://github.com/0xdea/semgrep-rules)
