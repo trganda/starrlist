@@ -1,5 +1,9 @@
 ## List
 
+- [ossf/alpha-omega](https://github.com/ossf/alpha-omega)
+  - Protect society by improving the security of open source software through direct maintainer engagement and expert analysis.
+- [advanced-security/codeql-queries](https://github.com/advanced-security/codeql-queries)
+  - GitHub's Field Team's CodeQL Custom Queries, Suites, and Configurations
 - [ossf/criticality_score](https://github.com/ossf/criticality_score)
   - Gives criticality score for an open source project
 - [github/codeql-dubbo-workshop](https://github.com/github/codeql-dubbo-workshop)
