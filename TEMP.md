@@ -1,5 +1,7 @@
 ## List
 
+- [xhycccc/Struts2-Vuln-Demo](https://github.com/xhycccc/Struts2-Vuln-Demo)
+  - Struts2漏洞实例源码
 - [ossf/alpha-omega](https://github.com/ossf/alpha-omega)
   - Protect society by improving the security of open source software through direct maintainer engagement and expert analysis.
 - [advanced-security/codeql-queries](https://github.com/advanced-security/codeql-queries)
