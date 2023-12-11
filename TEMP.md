@@ -1,5 +1,7 @@
 ## List
 
+- [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning)
+  - Curated list of project-based tutorials
 - [xhycccc/Struts2-Vuln-Demo](https://github.com/xhycccc/Struts2-Vuln-Demo)
   - Struts2漏洞实例源码
 - [ossf/alpha-omega](https://github.com/ossf/alpha-omega)
