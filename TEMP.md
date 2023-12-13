@@ -1,5 +1,7 @@
 ## List
 
+- [scopt/scopt](https://github.com/scopt/scopt)
+  - command line options parsing for Scala
 - [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf)
   - Protocol Buffers - Google's data interchange format
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning)
