@@ -1,5 +1,7 @@
 ## List
 
+- [jetpack-io/devbox](https://github.com/jetpack-io/devbox)
+  - Instant, easy, and predictable development environments
 - [scopt/scopt](https://github.com/scopt/scopt)
   - command line options parsing for Scala
 - [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf)
