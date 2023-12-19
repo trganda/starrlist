@@ -1,5 +1,9 @@
 ## List
 
+- [ossf/scorecard](https://github.com/ossf/scorecard)
+  - OpenSSF Scorecard - Security health metrics for Open Source
+- [ossf/malicious-packages](https://github.com/ossf/malicious-packages)
+  - A repository of reports of malicious packages identified in Open Source package repositories, consumable via the Open Source Vulnerability (OSV) format.
 - [jetpack-io/devbox](https://github.com/jetpack-io/devbox)
   - Instant, easy, and predictable development environments
 - [scopt/scopt](https://github.com/scopt/scopt)
@@ -179,7 +183,7 @@
 - [j3ers3/Hello-Java-Sec](https://github.com/j3ers3/Hello-Java-Sec)
   - ☕️ Java Security，安全编码和代码审计
 - [jeecgboot/jeecg-boot](https://github.com/jeecgboot/jeecg-boot)
-  - 🔥「企业级低代码平台」前后端分离架构SpringBoot 2.x，SpringCloud，Ant Design&Vue，Mybatis，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领新的开发模式OnlineCoding->代码生成->手工MERGE，帮助Java项目解决70%重复工作，让开发更关注业务，既能快速提高效率，帮助公司节省成本，同时又不失灵活性。
+  - 🔥「企业级低代码平台」前后端分离架构SpringBoot 2.x/3.x，SpringCloud，Ant Design&Vue，Mybatis，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领新的开发模式OnlineCoding->代码生成->手工MERGE，帮助Java项目解决70%重复工作，让开发更关注业务，既能快速提高效率，帮助公司节省成本，同时又不失灵活性。
 - [hacklcx/HFish](https://github.com/hacklcx/HFish)
   - 安全、可靠、简单、免费的企业级蜜罐
 - [joonspk-research/generative_agents](https://github.com/joonspk-research/generative_agents)
