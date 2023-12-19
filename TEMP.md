@@ -1,5 +1,9 @@
 ## List
 
+- [x-Ai/BurpSuite](https://github.com/x-Ai/BurpSuite)
+  - Burp Suite loader version --> ∞
+- [carlospolop/hacktricks](https://github.com/carlospolop/hacktricks)
+  - Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.
 - [ossf/scorecard](https://github.com/ossf/scorecard)
   - OpenSSF Scorecard - Security health metrics for Open Source
 - [ossf/malicious-packages](https://github.com/ossf/malicious-packages)
