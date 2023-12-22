@@ -646,7 +646,7 @@
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
   - A list of Free Software network services and web applications which can be hosted on your own servers
 - [olist213/Information_Security_Books](https://github.com/olist213/Information_Security_Books)
-  - 信息安全方面的书籍书籍
+  - 信息安全方面的书籍
 - [superhuman/rxxr2](https://github.com/superhuman/rxxr2)
 - [DrunkenShells/Disclosures](https://github.com/DrunkenShells/Disclosures)
   - Public Disclosures
