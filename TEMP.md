@@ -1,5 +1,7 @@
 ## List
 
+- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+  - Master programming by recreating your favorite technologies from scratch.
 - [char/noverify-hackery](https://github.com/char/noverify-hackery)
   - Force-disabling the JVM bytecode verifier
 - [ExpLangcn/NucleiTP](https://github.com/ExpLangcn/NucleiTP)
