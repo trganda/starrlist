@@ -1,5 +1,7 @@
 ## List
 
+- [bodhiye/paste](https://github.com/bodhiye/paste)
+  - 代码便利贴，在线代码分享平台~
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
   - Master programming by recreating your favorite technologies from scratch.
 - [char/noverify-hackery](https://github.com/char/noverify-hackery)
