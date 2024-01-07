@@ -620,7 +620,7 @@
 - [jamf/CVE-2020-0796-RCE-POC](https://github.com/jamf/CVE-2020-0796-RCE-POC)
   - CVE-2020-0796 Remote Code Execution POC
 - [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips)
-  - An advanced guide to learn English which might benefit you a lot 🎉 .  离谱的英语学习指南。
+  - An advanced guide to learn English which might benefit you a lot 🎉 .  离谱的英语学习指南/英语学习教程。
 - [arthepsy/CVE-2021-4034](https://github.com/arthepsy/CVE-2021-4034)
   - PoC for PwnKit: Local Privilege Escalation Vulnerability in polkit’s pkexec (CVE-2021-4034)
 - [Konloch/bytecode-viewer](https://github.com/Konloch/bytecode-viewer)
