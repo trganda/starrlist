@@ -1,5 +1,7 @@
 ## List
 
+- [chainreactors/gogo](https://github.com/chainreactors/gogo)
+  - 面向红队的, 高度可控可拓展的自动化引擎
 - [bodhiye/paste](https://github.com/bodhiye/paste)
   - 代码便利贴，在线代码分享平台~
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
