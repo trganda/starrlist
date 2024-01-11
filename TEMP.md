@@ -1,5 +1,7 @@
 ## List
 
+- [cncf/foundation](https://github.com/cncf/foundation)
+  - ☁️♮🏛 This repo contains several documents related to the operation of the CNCF. File non-technical issues related to CNCF here.
 - [nickvourd/Windows-Local-Privilege-Escalation-Cookbook](https://github.com/nickvourd/Windows-Local-Privilege-Escalation-Cookbook)
   - Windows Local Privilege Escalation Cookbook
 - [chainreactors/gogo](https://github.com/chainreactors/gogo)
