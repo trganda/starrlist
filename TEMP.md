@@ -53,7 +53,7 @@
 - [ShiftLeftSecurity/overflowdb](https://github.com/ShiftLeftSecurity/overflowdb)
   - ShiftLeft OverflowDB
 - [plume-oss/plume](https://github.com/plume-oss/plume)
-  - Plume is a code property graph analysis library with options to extract the CPG from Java bytecode and store the result in various graph databases.
+  - Plume is a code representation benchmarking library with options to extract the AST from Java bytecode and store the result in various graph databases.
 - [ShiftLeftSecurity/codepropertygraph](https://github.com/ShiftLeftSecurity/codepropertygraph)
   - Code Property Graph: specification, query language, and utilities
 - [fmbenhassine/jql](https://github.com/fmbenhassine/jql)
