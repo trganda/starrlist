@@ -1,5 +1,9 @@
 ## List
 
+- [apache/incubator-answer](https://github.com/apache/incubator-answer)
+  - A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
+- [SagerNet/sing-box](https://github.com/SagerNet/sing-box)
+  - The universal proxy platform
 - [cncf/foundation](https://github.com/cncf/foundation)
   - ☁️♮🏛 This repo contains several documents related to the operation of the CNCF. File non-technical issues related to CNCF here.
 - [nickvourd/Windows-Local-Privilege-Escalation-Cookbook](https://github.com/nickvourd/Windows-Local-Privilege-Escalation-Cookbook)
