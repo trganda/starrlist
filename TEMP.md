@@ -1,5 +1,9 @@
 ## List
 
+- [trailofbits/testing-handbook](https://github.com/trailofbits/testing-handbook)
+  - Trail of Bits Testing Handbook
+- [trailofbits/semgrep-rules](https://github.com/trailofbits/semgrep-rules)
+  - Semgrep queries developed by Trail of Bits.
 - [yarrick/iodine](https://github.com/yarrick/iodine)
   - Official git repo for iodine dns tunnel
 - [apache/incubator-answer](https://github.com/apache/incubator-answer)
