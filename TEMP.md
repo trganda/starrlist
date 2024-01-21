@@ -1,5 +1,9 @@
 ## List
 
+- [unjs/nitro](https://github.com/unjs/nitro)
+  - Create, build and deploy universal web servers. The open engine powering Nuxt and open to everyone.
+- [Everduin94/better-commits](https://github.com/Everduin94/better-commits)
+  - A CLI for creating better commits following the conventional commits specification
 - [trailofbits/testing-handbook](https://github.com/trailofbits/testing-handbook)
   - Trail of Bits Testing Handbook
 - [trailofbits/semgrep-rules](https://github.com/trailofbits/semgrep-rules)
@@ -378,7 +382,7 @@
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all)
   - gpt4all: open-source LLM chatbots that you can run anywhere
 - [binary-husky/gpt_academic](https://github.com/binary-husky/gpt_academic)
-  - 为GPT/GLM等基座大语言模型提供实用化交互接口，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm3等本地模型。接入通义千问, deepseekcoder, 讯飞星火, 文心一言, llama2, rwkv, claude2, moss等。
+  - 为GPT/GLM等LLM大语言模型提供实用化交互接口，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm3等本地模型。接入通义千问, deepseekcoder, 讯飞星火, 文心一言, llama2, rwkv, claude2, moss等。
 - [lwch/natpass](https://github.com/lwch/natpass)
   - 🔥居家办公，远程开发神器
 - [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai)
