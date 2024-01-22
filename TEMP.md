@@ -1,5 +1,7 @@
 ## List
 
+- [tdragon6/Supershell](https://github.com/tdragon6/Supershell)
+  - Supershell C2 远控平台，基于反向SSH隧道获取完全交互式Shell
 - [unjs/nitro](https://github.com/unjs/nitro)
   - Create, build and deploy universal web servers. The open engine powering Nuxt and open to everyone.
 - [Everduin94/better-commits](https://github.com/Everduin94/better-commits)
