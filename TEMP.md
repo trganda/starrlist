@@ -1,5 +1,7 @@
 ## List
 
+- [nickboucher/trojan-source](https://github.com/nickboucher/trojan-source)
+  - Trojan Source: Invisible Vulnerabilities
 - [tdragon6/Supershell](https://github.com/tdragon6/Supershell)
   - Supershell C2 远控平台，基于反向SSH隧道获取完全交互式Shell
 - [unjs/nitro](https://github.com/unjs/nitro)
@@ -190,7 +192,7 @@
 - [containerd/containerd](https://github.com/containerd/containerd)
   - An open and reliable container runtime
 - [Feysh-Group/corax-community](https://github.com/Feysh-Group/corax-community)
-  - corax community version
+  - Corax for Java: A general static analysis framework for java code checking.
 - [seal-io/walrus](https://github.com/seal-io/walrus)
 - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray)
   - Deploy a Production Ready Kubernetes Cluster
