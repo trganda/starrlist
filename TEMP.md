@@ -880,7 +880,7 @@
 - [justinfrankel/licecap](https://github.com/justinfrankel/licecap)
   - LICEcap simple animated screen capture tool for Windows and OS X
 - [a3vilc0de/PentesterSpecialDict](https://github.com/a3vilc0de/PentesterSpecialDict)
-  - Dictionary for penetration testers happy hacker
+  - Dictionary sets often used in penetration testing work
 - [dillonzq/LoveIt](https://github.com/dillonzq/LoveIt)
   - ❤️A clean, elegant but advanced blog theme for Hugo 一个简洁、优雅且高效的 Hugo 主题
 - [beefproject/beef](https://github.com/beefproject/beef)
