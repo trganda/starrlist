@@ -194,6 +194,7 @@
 - [Feysh-Group/corax-community](https://github.com/Feysh-Group/corax-community)
   - Corax for Java: A general static analysis framework for java code checking.
 - [seal-io/walrus](https://github.com/seal-io/walrus)
+  - Walrus is an open-source application management platform based on IaC tools including OpenTofu, Terraform and others. It helps platform engineers build golden paths for developers and empowers developers with self-service capabilities.
 - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray)
   - Deploy a Production Ready Kubernetes Cluster
 - [c0ny1/FastjsonExploit](https://github.com/c0ny1/FastjsonExploit)
